@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1774010729 source:c:\msys64\home\meiro\meiro.cpp
+	<windows.h>
+	<mmsystem.h>
+	<cstdint>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<cmath>
+	<cstdio>
+	<vector>
+	<stack>
+	<string>
+	<algorithm>
+	<fstream>
+	<limits>
+
+1774007589 source:c:\msys64\home\meiro\meiro.rc
+
